@@ -1,4 +1,4 @@
-# estudos-logica-com-python
+# Estudos-Logica-Com-JavaScript
 Repositório de estudos de lógica de programação com javascript!
 
 ## Lógica de Programação com JavaScript
